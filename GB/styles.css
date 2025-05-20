@@ -1,0 +1,34 @@
+.body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.container {
+  padding: 20px;
+  border-radius: 8px;
+  width: 600px;
+}
+
+.inserirTarefa {
+  margin-bottom: 20px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  margin-bottom: 10px;
+}
+
+.pasta {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
+
+.pasta h3 {
+  margin: 0 0 10px 0;
+}
